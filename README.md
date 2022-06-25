@@ -1,4 +1,5 @@
 Asset package link in GameMaker Marketplace: [https://marketplace.yoyogames.com/assets/10997]
+
 Do you want a tool that can display debug information in real-time in-game? This asset pack will make your dreams come true! In addition to storing logs in the form of .txt files in the directory you specify, it also has an interface similar to the output window of the GMS2 engine. Each of your logs will be displayed in real time in this interface. Use the logs_print() function to print Implement the same functionality as the show_debug_message() function, use the font_add() function to add the fonts you need to support any language!
 
 This is an open source asset package that allows arbitrary use, modification and dissemination.
